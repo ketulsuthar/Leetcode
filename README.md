@@ -9,3 +9,4 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](./66.py)|Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](./14.py)|Easy|
