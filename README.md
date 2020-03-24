@@ -1,4 +1,4 @@
-![Language](https://img.shields.io/badge/Language-Python-orange.svg?logo=Python&logoColor=yellow) ![Update](https://img.shields.io/badge/Update-Weekly-green.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg) 
+![Language](https://img.shields.io/badge/Language-Python-orange.svg?logo=Python&logoColor=yellow) ![Update](https://img.shields.io/badge/Update-Daily-orange) ![License](https://img.shields.io/badge/License-MIT-green.svg) 
 
 
 # Leetcode problems solution using python
