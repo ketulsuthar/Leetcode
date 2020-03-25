@@ -13,3 +13,5 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./461.py)|Easy|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Python](./693.py)|Easy|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Python](./38.py)|Easy|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Python](./345.py)|Easy|
+
