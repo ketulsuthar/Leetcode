@@ -12,3 +12,4 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](./14.py)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](./461.py)|Easy|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Python](./693.py)|Easy|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Python](./38.py)|Easy|
