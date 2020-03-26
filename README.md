@@ -16,4 +16,6 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Python](./345.py)|Easy|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./1.py)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Python](./231.py)|Easy|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](./326.py)|Easy|
+
 
