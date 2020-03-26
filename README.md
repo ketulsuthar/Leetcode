@@ -21,5 +21,6 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](./136.py)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](./268.py)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](./7.py)|Easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](./202.py)|Easy|
 
 
