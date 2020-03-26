@@ -41,7 +41,7 @@ class Solution(object):
             else: return False
 
 
-##Solution-2 Recurrsion
+##Solution-2 Recursion
 
 class Solution(object):
     def isPowerOfThree(self, n):
