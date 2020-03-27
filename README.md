@@ -30,5 +30,5 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](./20.py)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Python](./15.py)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](./21.py)|Easy|
-
+|728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](./728.py)|Easy|
 
