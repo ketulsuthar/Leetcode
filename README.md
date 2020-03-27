@@ -28,5 +28,5 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](./70.py)|Easy|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/)|[Python](./507.py)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](./20.py)|Easy|
-
+|15|[3Sum](https://leetcode.com/problems/3sum/)|[Python](./15.py)|Easy|
 
