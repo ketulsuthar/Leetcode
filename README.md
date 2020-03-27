@@ -22,6 +22,6 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](./268.py)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](./7.py)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](./202.py)|Easy|
-|434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Python](./434.py)|Easy|
+|9|[Palindrome Number.](https://leetcode.com/problems/palindrome-number/)|[Python](./9.py)|Easy|
 
 
