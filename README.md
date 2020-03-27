@@ -27,5 +27,6 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Python](./28.py)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](./70.py)|Easy|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/)|[Python](./507.py)|Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](./20.py)|Easy|
 
 
