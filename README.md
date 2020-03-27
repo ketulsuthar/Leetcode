@@ -26,5 +26,6 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[Python](./459.py)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Python](./28.py)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](./70.py)|Easy|
+|507|[Perfect Number](https://leetcode.com/problems/perfect-number/)|[Python](./507.py)|Easy|
 
 
