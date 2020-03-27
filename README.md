@@ -24,4 +24,5 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](./202.py)|Easy|
 |9|[Palindrome Number.](https://leetcode.com/problems/palindrome-number/)|[Python](./9.py)|Easy|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[Python](./459.py)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Python](./28.py)|Easy|
 
