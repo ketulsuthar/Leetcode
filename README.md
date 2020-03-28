@@ -33,4 +33,5 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](./728.py)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](./67.py)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](./13.py)|Easy|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Python](./190.py)|Easy|
 
