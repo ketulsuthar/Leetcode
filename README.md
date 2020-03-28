@@ -37,3 +37,4 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](./191.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](./27.py)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./26.py)|Easy|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](./69.py)|Easy|
