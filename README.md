@@ -35,4 +35,5 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](./13.py)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Python](./190.py)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](./191.py)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](./27.py)|Easy|
 
