@@ -38,3 +38,4 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](./27.py)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./26.py)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](./69.py)|Easy|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Python](./263.py)|Easy|
