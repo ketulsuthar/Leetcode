@@ -40,3 +40,4 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](./69.py)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Python](./263.py)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./344.py)|Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](./53.py)|Easy|
