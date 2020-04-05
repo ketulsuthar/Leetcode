@@ -42,6 +42,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./344.py)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](./53.py)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](./283.py)|Easy|
-|58|[length-of-last-word](https://leetcode.com/problems/move-zeroes/)|[Python](./58.py)|Easy|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](./58.py)|Easy|
+|657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Python](./657.py)|Easy|
 
  
