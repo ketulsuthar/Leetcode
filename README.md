@@ -42,6 +42,6 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./344.py)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](./53.py)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](./283.py)|Easy|
-
+|58|[length-of-last-word](https://leetcode.com/problems/move-zeroes/)|[Python](./58.py)|Easy|
 
  
