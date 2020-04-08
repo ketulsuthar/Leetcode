@@ -44,6 +44,6 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](./283.py)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](./58.py)|Easy|
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Python](./657.py)|Easy|
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](./49.py)|Easy|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](./49.py)|Medium|
 
  
