@@ -46,5 +46,6 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Python](./657.py)|Easy|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](./49.py)|Medium|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./876.py)|Easy|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python](./83.py)|Easy|
 
  
