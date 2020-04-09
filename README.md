@@ -49,5 +49,6 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python](./83.py)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](./125.py)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](./35.py)|Easy|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](./278.py)|Easy|
 
  
