@@ -48,5 +48,6 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./876.py)|Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python](./83.py)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](./125.py)|Easy|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](./35.py)|Easy|
 
  
