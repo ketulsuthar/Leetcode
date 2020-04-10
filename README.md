@@ -57,4 +57,5 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |122|[ Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](./122.py)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Python](./258.py)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](./155.py)|Easy|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python](./237.py)|Easy|
  
