@@ -59,4 +59,5 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](./155.py)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python](./237.py)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](./203.py)|Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Python](./160.py)|Easy|
 
