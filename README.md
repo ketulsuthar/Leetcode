@@ -60,4 +60,5 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python](./237.py)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](./203.py)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Python](./160.py)|Easy|
+|806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[Python](./806.py)|Easy|
 
