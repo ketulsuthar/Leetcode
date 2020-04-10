@@ -51,5 +51,6 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](./35.py)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](./278.py)|Easy|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](./844.py)|Easy|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Python](./349.py)|Easy|
 
  
