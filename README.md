@@ -63,5 +63,5 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[Python](./806.py)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./217.py)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python](./219.py)|Easy|
-
+|1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Python](./1346.py)|Easy|
 
