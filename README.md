@@ -70,3 +70,4 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[Python](./914.py)|Easy|
 |1408|[String Matching in an Array](https://leetcode.com/contest/weekly-contest-184/problems/string-matching-in-an-array/)|[Python](./1408.py)|Easy|
 |1409|[Queries on a Permutation With Key](https://leetcode.com/contest/weekly-contest-184/problems/queries-on-a-permutation-with-key/)|[Python](./1409.py)|Medium|
+|1410|[HTML Entity Parser](https://leetcode.com/contest/weekly-contest-184/problems/html-entity-parser/)|[Python](./1410.py)|Medium|
