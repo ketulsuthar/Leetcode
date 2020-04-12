@@ -81,3 +81,4 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./189.py)|Easy|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Python](./374.py)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Python](./299.py)|Easy|
+|500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Python](./500.py)|Easy|
