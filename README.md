@@ -68,3 +68,4 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Python](./168.py)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Python](./171.py)|Easy|
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[Python](./914.py)|Easy|
+|1408|[String Matching in an Array](https://leetcode.com/contest/weekly-contest-184/problems/string-matching-in-an-array/)|[Python](./1408.py)|Easy|
