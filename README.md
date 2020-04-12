@@ -75,3 +75,4 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Python](./292.py)|Easy|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[Python](./551.py)|Easy|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](./1046.py)|Easy|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](./118.py)|Easy|
