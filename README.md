@@ -77,3 +77,5 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](./1046.py)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](./118.py)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](./119.py)|Easy|
+|175|[Combine Two Tables](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](./175.py)|Easy|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./189.py)|Easy|
