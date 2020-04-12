@@ -80,3 +80,4 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |175|[Combine Two Tables](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](./175.py)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./189.py)|Easy|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Python](./374.py)|Easy|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Python](./299.py)|Easy|
