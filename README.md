@@ -73,3 +73,4 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |1410|[HTML Entity Parser](https://leetcode.com/contest/weekly-contest-184/problems/html-entity-parser/)|[Python](./1410.py)|Medium|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](./543.py)|Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Python](./292.py)|Easy|
+|551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[Python](./551.py)|Easy|
