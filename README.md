@@ -72,3 +72,4 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |1409|[Queries on a Permutation With Key](https://leetcode.com/contest/weekly-contest-184/problems/queries-on-a-permutation-with-key/)|[Python](./1409.py)|Medium|
 |1410|[HTML Entity Parser](https://leetcode.com/contest/weekly-contest-184/problems/html-entity-parser/)|[Python](./1410.py)|Medium|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](./543.py)|Easy|
+|292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Python](./292.py)|Easy|
