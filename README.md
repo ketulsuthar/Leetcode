@@ -82,3 +82,4 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Python](./374.py)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Python](./299.py)|Easy|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Python](./500.py)|Easy|
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python](./496.py)|Easy|
