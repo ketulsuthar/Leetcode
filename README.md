@@ -93,4 +93,5 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Python](./561.py)|Easy|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Python](./541.py)|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[Python](./415.py)|Easy|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](./205.py)|Easy|
 
