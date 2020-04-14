@@ -88,4 +88,5 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](./389.py)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](./169.py)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](./509.py)|Easy|
+|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Python](./172.py)|Easy|
 
