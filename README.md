@@ -90,4 +90,5 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](./509.py)|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Python](./172.py)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Python](./198.py)|Easy|
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Python](./561.py)|Easy|
 
