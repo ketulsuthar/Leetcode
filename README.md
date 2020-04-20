@@ -98,4 +98,4 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](./238.py)|Medium|
 |678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python](./678.py)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python](./144.py)|Medium|
-
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](./33.py)|Medium|
