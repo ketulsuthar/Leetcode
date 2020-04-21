@@ -110,3 +110,36 @@ class Solution(object):
         return _inorder
                 
             
+# Solution -4  Threaded Binary (Morris Traversal)
+
+# Definition for a binary tree node.
+# class TreeNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution(object):
+    def inorderTraversal(self, root):
+        """
+        :type root: TreeNode
+        :rtype: List[int]
+        """
+        _inorder = []
+        curr = root
+        while curr != None:
+            
+            if curr.left == None:
+                _inorder.append(curr.val)
+                curr= curr.right
+            else:
+                prev = curr.left
+                while prev.right !=  None:
+                    prev=prev.right
+                    
+                prev.right = curr
+                curr = prev.right.left
+                prev.right.left = None
+               
+        return _inorder
+                
