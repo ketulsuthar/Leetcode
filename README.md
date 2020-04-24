@@ -1,4 +1,4 @@
-![Language](https://img.shields.io/badge/Language-Python-orange.svg?logo=Python&logoColor=yellow) ![Update](https://img.shields.io/badge/Update-Daily-orange) ![License](https://img.shields.io/badge/License-MIT-green.svg) 
+ ![Update](https://img.shields.io/badge/Update-Daily-orange) ![License](https://img.shields.io/badge/License-MIT-green.svg) 
 
 
 # Leetcode problems solution using python
@@ -101,3 +101,4 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](./33.py)|Medium|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Python](./1008.py)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](./94.py)|Medium|
+|201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[Python](./201.py)|Medium|
