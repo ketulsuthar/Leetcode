@@ -102,3 +102,4 @@ Python solution of problems from [LeetCode](https://leetcode.com/)
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Python](./1008.py)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](./94.py)|Medium|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[Python](./201.py)|Medium|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Python](./146.py)|Medium|
